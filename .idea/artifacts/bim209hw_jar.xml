@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bim209hw:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bim209hw_jar</output-path>
+    <root id="archive" name="bim209hw.jar">
+      <element id="module-output" name="bim209hw" />
+    </root>
+  </artifact>
+</component>
